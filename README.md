@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hey 👋, My name is Jason Walker!
+[![Gmail Badge](https://img.shields.io/badge/-teznadzn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:teznadzn@gmail.com)](mailto:teznadzn@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-jasonwalker777-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonwalker777/)](https://www.linkedin.com/in/jasonwalker777/) [![Github Badge](https://img.shields.io/badge/-teznadzn-grey?style=flat&logo=github&logoColor=white&link=https://github.com/teznadzn/)](https://www.github.com/teznadzn/) [![Twitter Badge](https://img.shields.io/badge/-tezna-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/tezna/)](https://www.twitter.com/tezna/) <p align='left'>I'm a SOC analyst passionate about incident response and getting down to the brass tacks of how things work. I work primarily with Sentinel and KQL in my daily role.</p>
 
-<!--
-**teznadzn/teznadzn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [TryHackMe](https://tryhackme.com/p/tezna) 🔓
+- [CyberDefenders](https://cyberdefenders.org/p/teznadzn#/overview) 🛡️
+- [KC7 Cyber](https://kc7cyber.com/profile/tezna) 💡
 
-Here are some ideas to get you started:
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=teznadzn alt=teznadzn /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=teznadzn&show_icons=true&include_all_commits=true)](https://github.com/teznadzn/github-readme-stats)
+
