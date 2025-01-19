@@ -5,11 +5,17 @@
 ### Personal Blog
 - [tresscross.blog](https://tresscross.blog/)
 
+---
+
+### Learning Platforms
+
 - [TryHackMe](https://tryhackme.com/p/tezna) 🔓
   
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/tezna.png)
 - [CyberDefenders](https://cyberdefenders.org/p/teznadzn#/overview) 🛡️
 - [KC7 Cyber](https://kc7cyber.com/profile/tezna) 💡
+
+---
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=tresscross alt=tresscross /> </p>
