@@ -1,6 +1,6 @@
 ## Hey 👋, My name is Jason Walker!
 [![Gmail Badge](https://img.shields.io/badge/-teznadzn@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:teznadzn@gmail.com)](mailto:teznadzn@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-jasonwalker777-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonwalker777/)](https://www.linkedin.com/in/jasonwalker777/) [![Github Badge](https://img.shields.io/badge/-teznadzn-grey?style=flat&logo=github&logoColor=white&link=https://github.com/teznadzn/)](https://www.github.com/teznadzn/) [![Twitter Badge](https://img.shields.io/badge/-tezna-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/tezna/)](https://www.twitter.com/tezna/) 
+[![Linkedin Badge](https://img.shields.io/badge/-jasonwalker777-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonwalker777/)](https://www.linkedin.com/in/jasonwalker777/) [![Github Badge](https://img.shields.io/badge/-teznadzn-grey?style=flat&logo=github&logoColor=white&link=https://github.com/tresscross/)](https://www.github.com/tresscross/) [![Twitter Badge](https://img.shields.io/badge/-tresscrossnet-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/tresscrossnet/)](https://www.twitter.com/tresscrossnet/) 
 
 ### Personal Blog
 - [tresscross.blog](https://tresscross.blog/)
