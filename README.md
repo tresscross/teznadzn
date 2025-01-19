@@ -9,7 +9,7 @@
 - [KC7 Cyber](https://kc7cyber.com/profile/tezna) 💡
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=teznadzn alt=teznadzn /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=tresscross alt=tresscross /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=teznadzn&show_icons=true&include_all_commits=true)](https://github.com/teznadzn/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=tresscross&show_icons=true&include_all_commits=true)](https://github.com/tresscross/github-readme-stats)
 
